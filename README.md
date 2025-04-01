@@ -1,1 +1,11 @@
-# careywhite2.github.io
+# Data Anaylst
+
+### Education
+MBA Business Analytics
+
+### Work Experience
+Teacher
+
+### Projects
+project 1
+-
