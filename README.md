@@ -49,7 +49,7 @@ I specialize in using SQL, Excel, and Tableau to analyze data, visualize trends,
 
 - LinkedIn: https://www.linkedin.com/in/careywhite2/  
 - Portfolio: https://careywhite2.github.io/
-
+- Tableau Public: https://public.tableau.com/app/profile/careywhite2
 ---
 
 _Thanks for visiting! Feel free to explore my projects and reach out to collaborate or connect._
