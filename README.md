@@ -48,7 +48,7 @@ I specialize in using SQL, Excel, and Tableau to analyze data, visualize trends,
 ## 📫 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/careywhite2/  
-- Portfolio: https://github.com/careywhite2.github.io
+- Portfolio: https://careywhite2.github.io/
 
 ---
 
